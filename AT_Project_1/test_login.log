@@ -1,0 +1,128 @@
+2024-06-30 15:35:24,664 - Test_Case_OrangeHRM.test_login - INFO - TC_PIM_01
+2024-06-30 15:40:10,728 - Test_Case_OrangeHRM.test_login - INFO - Setting up WebDriver instance
+2024-06-30 15:40:12,344 - Test_Case_OrangeHRM.test_login - INFO - TC_PIM_01
+2024-06-30 15:40:13,211 - Test_Case_OrangeHRM.test_login - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-06-30 15:40:13,405 - Test_Case_OrangeHRM.test_login - INFO - Tearing down WebDriver instance
+2024-06-30 15:43:22,745 - Test_Case_OrangeHRM.test_login - INFO - Setting up WebDriver instance
+2024-06-30 15:43:24,499 - Test_Case_OrangeHRM.test_login - INFO - TC_PIM_01
+2024-06-30 15:43:56,254 - Test_Case_OrangeHRM.test_login - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-06-30 15:44:06,677 - Test_Case_OrangeHRM.test_login - INFO - Tearing down WebDriver instance
+2024-06-30 16:22:27,963 - Test_Case_OrangeHRM.test_login - INFO - Setting up WebDriver instance
+2024-06-30 16:22:29,482 - Test_Case_OrangeHRM.test_login - INFO - TC_PIM_01
+2024-06-30 16:22:46,995 - Test_Case_OrangeHRM.test_login - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-06-30 16:23:00,767 - Test_Case_OrangeHRM.test_login - INFO - Tearing down WebDriver instance
+2024-06-30 16:23:50,548 - Test_Case_OrangeHRM.test_login - INFO - Setting up WebDriver instance
+2024-06-30 16:23:52,155 - Test_Case_OrangeHRM.test_login - INFO - TC_PIM_01
+2024-06-30 16:24:03,466 - Test_Case_OrangeHRM.test_login - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-06-30 16:24:14,871 - Test_Case_OrangeHRM.test_login - INFO - Tearing down WebDriver instance
+2024-06-30 16:25:03,412 - Test_Case_OrangeHRM.test_login - INFO - Setting up WebDriver instance
+2024-06-30 16:25:04,963 - Test_Case_OrangeHRM.test_login - INFO - TC_PIM_01
+2024-06-30 16:25:16,622 - Test_Case_OrangeHRM.test_login - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-06-30 16:25:21,841 - Test_Case_OrangeHRM.test_login - INFO - Clicked the PIM module
+2024-06-30 16:25:21,952 - Test_Case_OrangeHRM.test_login - INFO - Tearing down WebDriver instance
+2024-06-30 18:05:50,631 - Test_Case_OrangeHRM.test_login - INFO - Setting up WebDriver instance
+2024-06-30 18:05:56,617 - Test_Case_OrangeHRM.test_login - INFO - TC_PIM_01
+2024-06-30 18:06:03,906 - Test_Case_OrangeHRM.test_login - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-06-30 18:06:07,757 - Test_Case_OrangeHRM.test_login - INFO - Clicked the PIM module
+2024-06-30 18:06:08,162 - Test_Case_OrangeHRM.test_login - INFO - Tearing down WebDriver instance
+2024-06-30 18:07:31,306 - Test_Case_OrangeHRM.test_login - INFO - Setting up WebDriver instance
+2024-06-30 18:07:32,951 - Test_Case_OrangeHRM.test_login - INFO - TC_PIM_01
+2024-06-30 18:07:37,082 - Test_Case_OrangeHRM.test_login - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-06-30 18:07:40,906 - Test_Case_OrangeHRM.test_login - INFO - Clicked the PIM module
+2024-06-30 18:07:41,204 - Test_Case_OrangeHRM.test_login - INFO - Tearing down WebDriver instance
+2024-06-30 18:15:08,673 - Test_Case_OrangeHRM.test_login - INFO - Setting up WebDriver instance
+2024-06-30 18:15:11,018 - Test_Case_OrangeHRM.test_login - INFO - TC_PIM_01
+2024-06-30 18:15:20,941 - Test_Case_OrangeHRM.test_login - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-06-30 18:15:24,982 - Test_Case_OrangeHRM.test_login - INFO - Clicked the PIM module
+2024-06-30 18:15:35,951 - Test_Case_OrangeHRM.test_login - INFO - Added the new employee
+2024-06-30 18:15:35,956 - Test_Case_OrangeHRM.test_login - INFO - Tearing down WebDriver instance
+2024-06-30 18:29:34,482 - Test_Case_OrangeHRM.test_login - INFO - Setting up WebDriver instance
+2024-06-30 18:29:36,421 - Test_Case_OrangeHRM.test_login - INFO - TC_PIM_01
+2024-06-30 18:29:42,729 - Test_Case_OrangeHRM.test_login - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-06-30 18:29:46,609 - Test_Case_OrangeHRM.test_login - INFO - Clicked the PIM module
+2024-06-30 18:29:49,533 - Test_Case_OrangeHRM.test_login - INFO - Added the new employee in orangeHRM
+2024-06-30 18:29:51,221 - Test_Case_OrangeHRM.test_login - INFO - Tearing down WebDriver instance
+2024-06-30 18:37:11,056 - Test_Case_OrangeHRM.test_login - INFO - Setting up WebDriver instance
+2024-06-30 18:37:12,718 - Test_Case_OrangeHRM.test_login - INFO - TC_PIM_01
+2024-06-30 18:37:20,734 - Test_Case_OrangeHRM.test_login - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-06-30 18:37:24,457 - Test_Case_OrangeHRM.test_login - INFO - Clicked the PIM module
+2024-06-30 18:37:27,281 - Test_Case_OrangeHRM.test_login - INFO - Added the new employee in orangeHRM
+2024-06-30 18:37:29,709 - Test_Case_OrangeHRM.test_login - INFO - Tearing down WebDriver instance
+2024-06-30 18:40:48,835 - Test_Case_OrangeHRM.test_login - INFO - Setting up WebDriver instance
+2024-06-30 18:40:50,593 - Test_Case_OrangeHRM.test_login - INFO - TC_PIM_01
+2024-06-30 18:40:54,907 - Test_Case_OrangeHRM.test_login - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-06-30 18:40:59,050 - Test_Case_OrangeHRM.test_login - INFO - Clicked the PIM module
+2024-06-30 18:41:01,574 - Test_Case_OrangeHRM.test_login - INFO - Added the new employee in orangeHRM
+2024-06-30 18:41:02,942 - Test_Case_OrangeHRM.test_login - INFO - Employee added successfully: Success
+Successfully Saved
+×
+2024-06-30 18:41:02,951 - Test_Case_OrangeHRM.test_login - INFO - Tearing down WebDriver instance
+2024-06-30 19:03:18,323 - Test_Case_OrangeHRM.test_login - INFO - TC_PIM_03
+2024-06-30 19:03:36,288 - Test_Case_OrangeHRM.test_login - INFO - Setting up WebDriver instance
+2024-06-30 19:03:37,976 - Test_Case_OrangeHRM.test_login - INFO - TC_PIM_03
+2024-06-30 19:03:47,990 - Test_Case_OrangeHRM.test_login - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-06-30 19:03:55,732 - Test_Case_OrangeHRM.test_login - INFO - Clicked the PIM module
+2024-06-30 19:04:06,112 - Test_Case_OrangeHRM.test_login - INFO - Tearing down WebDriver instance
+2024-06-30 19:16:26,561 - Test_Case_OrangeHRM.test_login - INFO - Setting up WebDriver instance
+2024-06-30 19:16:39,361 - Test_Case_OrangeHRM.test_login - INFO - TC_PIM_03
+2024-06-30 19:16:51,696 - Test_Case_OrangeHRM.test_login - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-06-30 19:16:56,764 - Test_Case_OrangeHRM.test_login - INFO - Clicked the PIM module
+2024-06-30 19:16:57,246 - Test_Case_OrangeHRM.test_login - INFO - Tearing down WebDriver instance
+2024-06-30 19:18:30,123 - Test_Case_OrangeHRM.test_login - INFO - Setting up WebDriver instance
+2024-06-30 19:18:31,835 - Test_Case_OrangeHRM.test_login - INFO - TC_PIM_03
+2024-06-30 19:18:36,598 - Test_Case_OrangeHRM.test_login - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-06-30 19:18:42,165 - Test_Case_OrangeHRM.test_login - INFO - Clicked the PIM module
+2024-06-30 19:18:42,556 - Test_Case_OrangeHRM.test_login - INFO - Tearing down WebDriver instance
+2024-06-30 19:22:03,604 - Test_Case_OrangeHRM.test_login - INFO - Setting up WebDriver instance
+2024-06-30 19:22:05,339 - Test_Case_OrangeHRM.test_login - INFO - TC_PIM_03
+2024-06-30 19:22:09,912 - Test_Case_OrangeHRM.test_login - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-06-30 19:22:18,944 - Test_Case_OrangeHRM.test_login - INFO - Clicked the PIM module
+2024-06-30 19:22:29,829 - Test_Case_OrangeHRM.test_login - INFO - Tearing down WebDriver instance
+2024-06-30 19:29:48,459 - Test_Case_OrangeHRM.test_login - INFO - Setting up WebDriver instance
+2024-06-30 19:29:50,105 - Test_Case_OrangeHRM.test_login - INFO - TC_PIM_03
+2024-06-30 19:29:55,311 - Test_Case_OrangeHRM.test_login - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-06-30 19:29:59,403 - Test_Case_OrangeHRM.test_login - INFO - Clicked the PIM module
+2024-06-30 19:30:09,968 - Test_Case_OrangeHRM.test_login - INFO - deledt the exit the employee
+2024-06-30 19:30:09,968 - Test_Case_OrangeHRM.test_login - INFO - Tearing down WebDriver instance
+2024-06-30 19:32:47,646 - Test_Case_OrangeHRM.test_login - INFO - Setting up WebDriver instance
+2024-06-30 19:32:49,419 - Test_Case_OrangeHRM.test_login - INFO - TC_PIM_03
+2024-06-30 19:32:54,023 - Test_Case_OrangeHRM.test_login - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-06-30 19:32:59,394 - Test_Case_OrangeHRM.test_login - INFO - Clicked the PIM module
+2024-06-30 19:33:09,947 - Test_Case_OrangeHRM.test_login - INFO - deledt the exit the employee
+2024-06-30 19:33:10,259 - Test_Case_OrangeHRM.test_login - INFO - Tearing down WebDriver instance
+2024-06-30 19:35:09,898 - Test_Case_OrangeHRM.test_login - INFO - Setting up WebDriver instance
+2024-06-30 19:35:11,712 - Test_Case_OrangeHRM.test_login - INFO - TC_PIM_03
+2024-06-30 19:35:15,942 - Test_Case_OrangeHRM.test_login - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-06-30 19:35:19,922 - Test_Case_OrangeHRM.test_login - INFO - Clicked the PIM module
+2024-06-30 19:35:30,445 - Test_Case_OrangeHRM.test_login - INFO - deledt the exit the employee
+2024-06-30 19:35:41,302 - Test_Case_OrangeHRM.test_login - INFO - Tearing down WebDriver instance
+2024-06-30 19:38:00,081 - Test_Case_OrangeHRM.test_login - INFO - Setting up WebDriver instance
+2024-06-30 19:38:01,785 - Test_Case_OrangeHRM.test_login - INFO - TC_PIM_03
+2024-06-30 19:38:14,661 - Test_Case_OrangeHRM.test_login - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-06-30 19:38:18,869 - Test_Case_OrangeHRM.test_login - INFO - Clicked the PIM module
+2024-06-30 19:38:29,718 - Test_Case_OrangeHRM.test_login - INFO - Tearing down WebDriver instance
+2024-06-30 19:40:11,767 - Test_Case_OrangeHRM.test_login - INFO - Setting up WebDriver instance
+2024-06-30 19:40:13,465 - Test_Case_OrangeHRM.test_login - INFO - TC_PIM_03
+2024-06-30 19:40:20,508 - Test_Case_OrangeHRM.test_login - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-06-30 19:40:24,531 - Test_Case_OrangeHRM.test_login - INFO - Clicked the PIM module
+2024-06-30 19:40:35,082 - Test_Case_OrangeHRM.test_login - INFO - deledt the exit the employee
+2024-06-30 19:40:56,521 - Test_Case_OrangeHRM.test_login - INFO - Tearing down WebDriver instance
+2024-06-30 19:46:57,758 - Test_Case_OrangeHRM.test_login - INFO - Setting up WebDriver instance
+2024-06-30 19:46:59,583 - Test_Case_OrangeHRM.test_login - INFO - TC_PIM_03
+2024-06-30 19:47:00,899 - Test_Case_OrangeHRM.test_login - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-06-30 19:47:45,782 - Test_Case_OrangeHRM.test_login - INFO - Clicked the PIM module
+2024-06-30 19:47:56,306 - Test_Case_OrangeHRM.test_login - INFO - deledt the exit the employee
+2024-06-30 19:48:17,535 - Test_Case_OrangeHRM.test_login - INFO - Tearing down WebDriver instance
+2024-06-30 19:54:46,003 - Test_Case_OrangeHRM.test_login - INFO - Setting up WebDriver instance
+2024-06-30 19:54:47,766 - Test_Case_OrangeHRM.test_login - INFO - TC_PIM_03
+2024-06-30 19:54:57,156 - Test_Case_OrangeHRM.test_login - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-06-30 19:55:01,382 - Test_Case_OrangeHRM.test_login - INFO - Clicked the PIM module
+2024-06-30 19:55:22,843 - Test_Case_OrangeHRM.test_login - INFO - Tearing down WebDriver instance
+2024-06-30 19:57:07,537 - Test_Case_OrangeHRM.test_login - INFO - Setting up WebDriver instance
+2024-06-30 19:57:09,832 - Test_Case_OrangeHRM.test_login - INFO - TC_PIM_03
+2024-06-30 19:57:18,798 - Test_Case_OrangeHRM.test_login - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-06-30 19:57:26,924 - Test_Case_OrangeHRM.test_login - INFO - Clicked the PIM module
+2024-06-30 19:57:29,609 - Test_Case_OrangeHRM.test_login - INFO - deledt the exit the employee
+2024-06-30 19:57:30,087 - Test_Case_OrangeHRM.test_login - INFO - Employee deleted successfully.: Success
+Successfully Deleted
+2024-06-30 19:57:30,098 - Test_Case_OrangeHRM.test_login - INFO - Tearing down WebDriver instance
